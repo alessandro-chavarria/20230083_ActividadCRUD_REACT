@@ -17,7 +17,8 @@ Funcionalidades principales:
 🛠️ Tecnologías Utilizadas
 Frontend: React.js, Vite
 
-Estilos: Bootstrap, CSS personalizado
+Estilos: 
+Bootstrap, CSS personalizado
 
 Animaciones: CSS Animations
 
